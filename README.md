@@ -1,7 +1,7 @@
 # The Data Scientist’s Toolbox
 This respositry contains the assigment to the course The Data Scientist’s Toolbox
 
-##Intrucctions
+##Instructions
 
 * Create a text file called HelloWorld.md
 * Add the line "## This is a markdown file" (without the quotation marks) to the document (without the quotation marks)
